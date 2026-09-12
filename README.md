@@ -239,4 +239,4 @@ This repository serves as the official landing page for **Photo DVD Maker**. The
 **Get the most recent version of Photo DVD Maker today!**
 
 ---
-**Last updated:** 2026-09-12 16:35:36 UTC
+**Last updated:** 2026-09-12 18:50:28 UTC
